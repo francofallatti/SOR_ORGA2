@@ -1,6 +1,4 @@
 1. Realizar un script bash que pida al usuario su nombre y muestre en pantalla el mensaje:
-	
-Some basic Git commands are:
 ```
 Hola <nombre pasado por el usuario>
 ```
