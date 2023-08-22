@@ -4,6 +4,10 @@ Hola <nombre pasado por el usuario>
 ```
 
 2. ¿Qué comandos necesita para dar permisos de ejecución a su script y ejecutarlo?
+```
+	chmod +x p1.sh
+	bash p1.sh or ./p1.sh
+```
 
 3. Crear una carpeta, agregarle contenido y luego borrar la carpeta
 
