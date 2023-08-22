@@ -1,0 +1,46 @@
+Informacion del sistema:
+Kernel: 6.1.21-v8+
+Arquitectura de la PC: aarch64
+Informacion del CPU: Architecture:                    aarch64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+CPU(s):                          4
+On-line CPU(s) list:             0-3
+Thread(s) per core:              1
+Core(s) per socket:              4
+Socket(s):                       1
+Vendor ID:                       ARM
+Model:                           3
+Model name:                      Cortex-A72
+Stepping:                        r0p3
+CPU max MHz:                     1800,0000
+CPU min MHz:                     600,0000
+BogoMIPS:                        108.00
+L1d cache:                       128 KiB
+L1i cache:                       192 KiB
+L2 cache:                        1 MiB
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Mmio stale data:   Not affected
+Vulnerability Retbleed:          Not affected
+Vulnerability Spec store bypass: Vulnerable
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Vulnerable
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fp asimd evtstrm crc32 cpuid
+Primeras 10 interrupciones:            CPU0       CPU1       CPU2       CPU3       
+  9:          0          0          0          0     GICv2  25 Level     vgic
+ 11:     777771     773695     790841     716937     GICv2  30 Level     arch_timer
+ 12:          0          0          0          0     GICv2  27 Level     kvm guest vtimer
+ 14:      59532          0          0          0     GICv2  65 Level     fe00b880.mailbox
+ 15:        344          0          0          0     GICv2 114 Level     DMA IRQ
+ 16:          0          0          0          0     GICv2 116 Level     DMA IRQ
+ 17:          0          0          0          0     GICv2 117 Level     DMA IRQ
+ 23:          0          0          0          0     GICv2  48 Level     arm-pmu
+ 24:          0          0          0          0     GICv2  49 Level     arm-pmu
+Informacion de la memoria swap: Swap:           99Mi          0B        99Mi
+Informacion de la memoria principal Mem:           3,7Gi       640Mi       2,0Gi        23Mi       1,1Gi       3,0Gi
+Placa de video 
