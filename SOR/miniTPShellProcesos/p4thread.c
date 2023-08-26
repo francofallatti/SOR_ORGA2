@@ -8,7 +8,7 @@ void do_nothing(int microsegundos){
 }
 
 int main(){
-    pthread_t tid[]; 
+    pthread_t tid[5]; 
     pthread_attr_t attr;
 
     pthread_attr_init(&attr);
