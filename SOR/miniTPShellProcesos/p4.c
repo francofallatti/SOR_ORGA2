@@ -2,7 +2,7 @@
 #include <unistd.h> //para hacer sleep
 #include <time.h> //para inicializar el tiempo
 
-void do_nothing(int microseconds){
+void do_nothing(){
     usleep(2000000); //esperar 2 segundos, 1 millon de microsegundos en 1 segundo
     //dormir el proceso, simula que esta haciendo alguna tarea
 }
